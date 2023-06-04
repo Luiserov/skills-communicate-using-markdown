@@ -9,3 +9,8 @@
 This is an example code block
 Example code block
 ```
+
+Now this is a task list:
+- [ ] Get Ready
+- [ ] Set
+- [ ] Go!
